@@ -22,9 +22,7 @@
                <suiteXmlFile>
                 Parallel.xml
                </suiteXmlFile>
-               <suiteXmlFile>
-                Parallel2.xml
-               </suiteXmlFile>
+             
             </suiteXmlFiles>
           </configuration>
         </plugin>
